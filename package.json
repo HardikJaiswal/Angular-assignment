@@ -1,0 +1,19 @@
+{
+  "name": "angular-assignment",
+  "version": "1.0.0",
+  "description": "Assignment for angular developer role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardikJaiswal/Angular-assignment.git"
+  },
+  "author": "Hardik Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardikJaiswal/Angular-assignment/issues"
+  },
+  "homepage": "https://github.com/HardikJaiswal/Angular-assignment#readme"
+}
